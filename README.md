@@ -6,7 +6,7 @@
 
 The Covid-19 pandemic, which gripped the world for several years, brought about unprecedented challenges and disruptions to societies, economies, and healthcare systems worldwide. While the acute phase of the pandemic may have ended, its impact continues to reverberate across the globe. This project seeks to examine the multifaceted aspects of the Covid-19 pandemic through a data-driven lens. By analyzing and visualizing Covid-19 data, this project aims to understand the spread, severity, and mitigation efforts related to the virus across the continents.
 
-In this project I have created dashboards on both PowerBI and Tableau.
+In this project I have created dashboards in both PowerBI and Tableau.
 
 <br/><br/>
 
