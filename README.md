@@ -1,4 +1,4 @@
-# Covid Data Analysis and Dashboard Creation Project (SQL, PowerBI, Tableau)
+# Covid Data Analysis and Dashboard Project (SQL, PowerBI, Tableau)
 
 
 
